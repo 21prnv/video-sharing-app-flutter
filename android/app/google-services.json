@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "880726937609",
+    "project_id": "blac-coffer",
+    "storage_bucket": "blac-coffer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880726937609:android:0755ee15bab3d6521268d8",
+        "android_client_info": {
+          "package_name": "com.example.black_coffer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880726937609-3nel5lhann2osf5euau6jra7pmbttkea.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.black_coffer",
+            "certificate_hash": "1873392ed3a492d5e9fd0bf950691c87eaa7f552"
+          }
+        },
+        {
+          "client_id": "880726937609-4ft1khjfei0v3le3ujm13jla26dc8qa9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACDLyMBGvWQsGQYQtkaIH3HaV9hdZ0EkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880726937609-4ft1khjfei0v3le3ujm13jla26dc8qa9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "880726937609-7o9idr2kqpr5elpl8ru7s01li3ctabbi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.blackCoffer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
